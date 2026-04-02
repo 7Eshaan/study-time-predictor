@@ -121,6 +121,7 @@ Ideas for future work:
 
 ## 👤 Author
 
-**Eshaan**  
-B.Tech Computer Science | VIT  
+**Eshaan Dogra**
+**25BCE10675**
+B.Tech Computer Science | VIT Bhopal
 Course: Fundamentals of AI and ML
